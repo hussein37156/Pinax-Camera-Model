@@ -1,7 +1,7 @@
 # Pinax-camera-model
 This is a forked version of the original work by Tomasz Łuczyński, Max Pfingsthorn and Andreas Birk. 
 
-The following changes are made to the MatLab from the original (the ROS code is unedited):
+The following changes are made to the MatLab directory from the original (the ROS code is unedited):
 * All OpenCV functions are removed from the MatLab code and replaced with MatLab native equivalent functions - this allows for easier use.
 * The MatLab README document has been updated.
 * An example Python script showing the usage of the generated Pinax maps with the OpenCV function 'remap' for undistorting images is added.
