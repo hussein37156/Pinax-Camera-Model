@@ -16,16 +16,16 @@ Ocean Engineering, Volume 133, 2017, Pages 9-22, ISSN 0029-8018, http://dx.doi.o
 ```
 
 Abstract: <br>
-The calibration and refraction correction process for underwater cameras with flat-pane interfaces is presented that is <br>
-very easy and convenient to use in real world applications while yielding very accurate results. The correction is derived <br>
-from an analysis of the axial camera model for underwater cameras, which is among others computationally hard to tackle. <br>
-It is shown how realistic constraints on the distance of the camera to the window can be exploited, which leads to an approach <br>
-dubbed Pinax Model as it combines aspects of a virtual pinhole model with the projection function from the axial camera model. <br>
-It allows the pre-computation of a lookup-table for very fast refraction correction of the flat-pane with high accuracy. <br>
-The model takes the refraction indices of water into account, especially with respect to salinity, and it is therefore <br>
-sufficient to calibrate the underwater camera only once in air. It is demonstrated by real world experiments with several <br>
-underwater cameras in different salt and sweet water conditions that the proposed process outperforms standard methods. <br>
-Among others, it is shown how the presented method leads to accurate results with single in-air calibration and even with <br>
+The calibration and refraction correction process for underwater cameras with flat-pane interfaces is presented that is
+very easy and convenient to use in real world applications while yielding very accurate results. The correction is derived
+from an analysis of the axial camera model for underwater cameras, which is among others computationally hard to tackle.
+It is shown how realistic constraints on the distance of the camera to the window can be exploited, which leads to an approach
+dubbed Pinax Model as it combines aspects of a virtual pinhole model with the projection function from the axial camera model.
+It allows the pre-computation of a lookup-table for very fast refraction correction of the flat-pane with high accuracy.
+The model takes the refraction indices of water into account, especially with respect to salinity, and it is therefore 
+sufficient to calibrate the underwater camera only once in air. It is demonstrated by real world experiments with several 
+underwater cameras in different salt and sweet water conditions that the proposed process outperforms standard methods. 
+Among others, it is shown how the presented method leads to accurate results with single in-air calibration and even with 
 just estimated salinity values.
 
 Reference: <br>
