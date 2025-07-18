@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<launch>
+	<node name="depth_map" type="integrated.py" pkg="depth_estimation" output="screen" respawn="true"></node>
+	<node name="depth" type="depth.py" pkg="depth_estimation" output="screen" respawn="true"></node>
+</launch>
